@@ -1,0 +1,17 @@
+.btn {
+  display: block;
+  block-size: 10px;
+  border: 20px;
+  color: green;
+}
+body {
+  background-color: white;
+  
+}
+.container {
+  background-color: white;
+  color: black;
+  margin: auto;
+  padding: auto;
+  
+}
